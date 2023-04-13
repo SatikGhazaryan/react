@@ -1,0 +1,5 @@
+
+ul{padding-left: 0;display: flex;list-style: none;}
+header{display: flex;justify-content: space-between;}
+li{padding: 10px;}
+li:hover{background: #ccc}
