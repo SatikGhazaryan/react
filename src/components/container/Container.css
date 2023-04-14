@@ -4,9 +4,11 @@
   gap: 10px;
   justify-content: space-around;
   margin-top: 20px;
+  align-items: center;
 }
+.Container img{height:250px}
 .col {
-  width: calc((100% - 20px - 2px - 20px) / 6);
+  width: calc((100% - 20px - 2px - 20px) / 8);
   padding: 10px;
   border: 1px solid #ccc;
 }

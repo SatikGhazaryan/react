@@ -7,7 +7,7 @@ function RenderP(props){
   
         return(
             <>
-            {console.log(props.tage)}
+         
            {props.tage}
             </>
          )
